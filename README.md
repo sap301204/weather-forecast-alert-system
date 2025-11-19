@@ -1,4 +1,3 @@
-# weather-forecast-alert-system
 
 # Weather Forecast & Alert Application
 
